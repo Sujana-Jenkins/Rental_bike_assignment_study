@@ -1,7 +1,6 @@
-# Bike Sharing Assignment
+# Bike Sharing Linear Regression Model Assignment
 
-> A Multiple Linear Regression model assignment to understand Rental bikes demand prediction factors using historical lending data.
-
+> A Multiple Linear Regression model assignment to understand Rental bikes demand prediction 
 ## Table of Contents
 
 - [General Info](#general-info)
@@ -67,5 +66,3 @@ The linear regression model exhibits a strong correlation with the rental count,
 ## Contact
 
 Created by Sujana Anche - feel free to contact!
-
-# RentalBikeAssignment
