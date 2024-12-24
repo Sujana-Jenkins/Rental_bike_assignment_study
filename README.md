@@ -40,8 +40,8 @@ The analysis uses a day dataset containing 731 records with the following key fe
 
 - Comprehensive data cleaning and preprocessing
 - Exploratory Data Analysis (EDA) including:
-  - Univariate analysis of loan amounts and interest rates
-  - Bivariate analysis of loan status vs. various features
+  - Univariate analysis 
+  - Bivariate analysis 
   - Correlation analysis of numerical variables
 - Visual analysis using various plot types
 - Creating dummy variables
